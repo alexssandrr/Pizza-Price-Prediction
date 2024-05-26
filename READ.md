@@ -6,3 +6,11 @@
 - Feature Engineering
 - Model building using ML models
 - Model building and prediction using Auto ML
+
+## XGB Regressor
+### We will use Grid Search CV for finding the best parameters
+### We will be using the following models:
+- XGB Regressor
+- Support Vector Regressor
+### Auto ML
+### EvalML is an open-source AutoML library written in python that automates a large part of the machine learning process and we can easily evaluate which machine learning pipeline works better for the given set of data.
